@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.com/contact.html</loc></url>
+  <url><loc>https://example.com/fees.html</loc></url>
+  <url><loc>https://example.com/index.html</loc></url>
+  <url><loc>https://example.com/location.html</loc></url>
+  <url><loc>https://example.com/privacy.html</loc></url>
+  <url><loc>https://example.com/treatment-aesthetic.html</loc></url>
+  <url><loc>https://example.com/treatment-denture.html</loc></url>
+  <url><loc>https://example.com/treatment-general.html</loc></url>
+  <url><loc>https://example.com/treatment-gum.html</loc></url>
+  <url><loc>https://example.com/treatment-implant.html</loc></url>
+  <url><loc>https://example.com/treatment-whitening.html</loc></url>
+</urlset>
